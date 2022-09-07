@@ -7,7 +7,7 @@
 * Return: null
 */
 
-void exit_cmd(char **command, char *line)
+void close_cmd(char **command, char *line)
   
 {
   
